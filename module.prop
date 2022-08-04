@@ -1,0 +1,7 @@
+id=zygisk_siknife
+name=siknife
+version=v1.0.0 (019)
+versionCode=019
+author=bowyn
+description=修改system.prop―――!!
+updateJson=https://raw.githubusercontent.com/bowyn/siknife/main/siknife.json
